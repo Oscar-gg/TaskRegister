@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_first_option_menu"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_filtros_icono"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_baseline_statistics_menu"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_finished_tasks"
+            android:icon="@drawable/checked_box_foreground"
+            android:title="@string/menu_pendientes_terminados"
+            />
+    </group>
+</menu>

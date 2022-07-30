@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">TaskRegister</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Registro de Pendientes</string>
+    <string name="nav_header_subtitle">Organiza mejor tus pendientes!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_settings2">Cómo usar la app</string>
+
+    <string name="menu_home">Pendientes</string>
+    <string name="menu_gallery">Filtros</string>
+    <string name="menu_slideshow">Estadísticas</string>
+    <string name="example_home">Aquí irán los pendientes</string>
+    <string name="register_tv1_nombre">Nombre:</string>
+    <string name="register_tv3_status">Status:</string>
+    <string name="register_te1_taskName">Nombre de la tarea</string>
+    <string name="register_tv2_description">Descripción:</string>
+    <string name="register_te2_descriptionHint">Escribe una descripción</string>
+    <string name="register_te3_statusHint">Status del pendiente</string>
+    <string name="register_tv4_category">Categoría:</string>
+    <string name="register_tv5_priority">Prioridad:</string>
+    <string name="register_tv6_date">Fecha de entrega:</string>
+    <string name="register_te5_dateHint">DD/MM/YY</string>
+    <string name="register_te5_categoryHint">Categoría</string>
+    <string name="register_tv7_responsibles">Responsables:</string>
+    <string name="register_tv8_dateCreated">Fecha de Creación:</string>
+    <string name="register_tv8_dateModified">Última modificación:</string>
+    <string name="register_te6_responsiblesHint">Nombres separados por ,</string>
+    <string name="register_buttonToday">Hoy</string>
+    <string name="register_btn2_save">Guardar Tarea</string>
+    <string name="register_btn3_update">Actualizar</string>
+    <string name="register_btn4_delete">Borrar</string>
+    <string name="home_fragment_tv1_filtrar">Filtrar:</string>
+    <string name="menu_pendientes_terminados">Pendientes Terminados</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_generalInfo">GeneralInfo</string>
+
+    <string name="settings_button1">Guardar</string>
+    <string name="settings_switch_text">Ordenar x prioridad</string>
+    <string name="settings_switch_text5">(Default fecha entrega)</string>
+    <string name="settings_switch_text2">Colorear x estatus</string>
+    <string name="settings_switch_text3">Indicador de prioridad</string>
+    <string name="settings_switch_text4">Confirmar al completar las tareas</string>
+    <string name="settings_credits_tv1">Evaluación Interna</string>
+    <string name="filterFragment_default">default</string>
+    <string name="filters_status">Status</string>
+    <string name="filters_categories">Categorías</string>
+    <string name="filters_priority">Prioridad</string>
+    <string name="filters_responsibles">Responsables</string>
+    <string name="statistics_numDefault">NumDefault</string>
+    <string name="statistics_final_tv1">Total de Pendientes:</string>
+    <string name="statistics_final_tv2">Pendientes Activos:</string>
+    <string name="statistics_final_tv3">Pendientes Completados:</string>
+    <string name="statistics_final_tv4">Pendientes Atrasados:</string>
+
+    <string name="dialog_confirm_title">Confirmar completado</string>
+    <string name="dialog_confirm_message1">Mover</string>
+    <string name="dialog_confirm_message2">a la lista de completados?</string>
+    <string name="dialog_positive_message">Confirmar</string>
+    <string name="dialog_negative_message">Cancelar</string>
+
+    <string name="dialog_erase_title">Eliminar tarea</string>
+    <string name="dialog_erase_message">¿Está seguro de que quiere borrar la tarea actual?</string>
+
+    <string name="string_btn1">Borrar</string>
+    <string name="string_btn2">Cancelar</string>
+    <string name="informacion_general">Información General</string>
+
+    <string name="general_info_tv">Text Body</string>
+    <string name="settings_switch_text6">Vista Compacta</string>
+
+
+</resources>

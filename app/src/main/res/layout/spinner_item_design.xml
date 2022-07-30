@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Este archivo tiene el diseño de los spinners usados en el programa-->
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="18sp"
+    android:padding="10sp"
+    android:background="#9A9C9E"
+    android:textColor="#EBEEF1"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
